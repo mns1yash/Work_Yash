@@ -1,0 +1,94 @@
+Video Processing :
+Meanshift and Camshift
+Optical Flow
+Background Subtraction
+
+Camera Calibration and 3D Reconstruction:
+Camera Calibration
+Pose Estimation
+Epipolar Geometry
+Depth Map from Stereo Images
+
+Machine Learning:
+K-Nearest Neighbour:
+	Understanding k-Nearest Neighbour
+	OCR of Hand-written Data using kNN
+Support Vector Machines (SVM):
+	Understanding SVM
+	OCR of Hand-written Data using SVM
+K-Means Clustering:
+	Understanding K-Means Clustering
+	K-Means Clustering in OpenCV
+
+Computational Photography:
+Image Denoising
+Image Inpainting
+
+Object Detection:
+Face Detection using Haar Cascades
+
+OpenCV-Python Bindings
+
+
+Excercises/ Projects: 
+Image Difference with OpenCV and Python
+Rotate images (correctly) with OpenCV and Python
+Bubble sheet multiple choice scanner and test grader using OMR, Python and OpenCV
+Detecting cats in images with OpenCV
+Measuring distance between objects in an image with OpenCV
+Measuring size of objects in an image with OpenCV
+Find distance from camera to object/marker using Python and OpenCV
+OpenCV shape detection
+OpenCV panorama stitching
+Detecting machine-readable zones in passport images
+Pedestrian Detection OpenCV
+Capturing mouse click events with Python and OpenCV
+Multi-scale Template Matching using Python and OpenCV
+
+Face recognition with OpenCV, Python
+Face detection with OpenCV
+Facial landmarks with dlib, OpenCV, and Python
+Real-time facial landmark detection with OpenCV, Python, and dlib
+Detect eyes, nose, lips, and jaw with dlib, OpenCV, and Python
+Drowsiness detection with OpenCV
+Eye blink detection with OpenCV, Python, and dlib
+Face Alignment with OpenCV and Python
+(Faster) Facial landmark detector with dlib
+
+Writing to video with OpenCV
+Saving key event video clips with OpenCV
+Real-time panorama and image stitching with OpenCV
+Unifying picamera and cv2.VideoCapture into a single class with OpenCV
+Ball Tracking with OpenCV
+OpenCV Track Object Movement
+
+Additional:
+Installing Tesseract for OCR
+Using Tesseract OCR with Python
+Credit card OCR with OpenCV and Python
+Bank check OCR with OpenCV and Python (Part I)
+Bank check OCR with OpenCV and Python (Part II)
+Recognizing digits with OpenCV and Python
+
+OpenCV Simple Version:
+What is Computer Vision?
+Why use OpenCV for Computer Vision Tasks?
+Reading, Writing and Displaying Images
+Changing Color Spaces
+Resizing Images
+Image Rotation
+Image Translation
+Simple Image Thresholding
+Adaptive Thresholding
+Image Segmentation (Watershed Algorithm)
+Bitwise Operations
+Edge Detection
+Image Filtering
+Image Contours
+Scale Invariant Feature Transform (SIFT)
+Speeded-Up Robust Features (SURF)
+Feature Matching
+Face Detection
+
+
+ 
